@@ -1,4 +1,0 @@
-General game playing is an extremely complex challenge, since building a model that is able to learn to play any game is a task that is closely related to achieving artificial general intelligence (AGI). Video games are an appropriate test bench for general purpose agents, since the wide
-variety of games allows solutions to use and hone many different skills like control, strategy, long term planning and so on. Designed to provide enough of a challenge to human players, Atari games in particular are a good testbed for incipient general intelligence. In this project, we
-aim to develop one such Atari game named, Space Invaders using Deep Reinforcement Learning technique. DRL is a cutting-edge approach at the intersection of deep learning and reinforcement learning, aimed at training intelligent agents to make sequential decisions in complex
-environments. The model is run for 10 episodes and has given convincing results
